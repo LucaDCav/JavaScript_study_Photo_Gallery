@@ -1,0 +1,1 @@
+Module 6 of freecodecamp site on Javascript studies on HTML with CSS - How to design your webpage using Flexbox to build a responsive photo gallery webpage.
